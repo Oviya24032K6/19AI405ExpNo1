@@ -1,7 +1,8 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-### NAME: OVIYA P
-### REG.NO : 212223110033
-### DATE: 24/07/2026
+<h3>NAME: OVIYA P </h3>
+<h3> REG.NO : 212223110033 </h3>
+ <h3> DATE: 24/07/2026  </h3>
+ 
 <h3>AIM:</h3>
 <p>To find the PEAS description for the given AI problem and develop an AI agent.</p>
 <h3>Theory</h3>
