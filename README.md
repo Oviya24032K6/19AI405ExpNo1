@@ -1,7 +1,8 @@
 <h1>ExpNo 1 :Developing AI Agent with PEAS Description</h1>
-<h3>Name: Saravanan N</h3>
-<h3>Register Number/Staff Id: TSML006</h3>
-
+<h3>Name: OVIYA P</h3>
+<h3>Register Number: 212223110033 6</h3>
+<h3> Date: 24/07/2026</h3>
+<h3> Day: Friday </h3>
 
 <h3>AIM:</h3>
 <br>
